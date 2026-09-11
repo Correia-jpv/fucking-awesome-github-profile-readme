@@ -217,6 +217,7 @@
 - [TallGuyJenks](https://github.com/tallguyjenks/tallguyjenks)
 - [Stefanie Grunwald](https://github.com/moertel/moertel)
 - [Abdul Khaliq](https://github.com/kha7iq/kha7iq)
+- [Bilivro](https://github.com/bilivro)
 
 #### GIFS 👻
 - [Pouya Saadeghi](https://github.com/saadeghi/saadeghi)
@@ -277,6 +278,7 @@
 - [Christian Petersen](https://github.com/fnky/fnky)
 
 ## Tools
+- [Git Bonsai](https://github.com/egorthinks/git-bonsai) - Grow a unique, deterministic pixel-art bonsai from your GitHub history - animated GIF for your README that keeps growing as you commit 🌳
 - [Todoist Stats in Readme](https://github.com/abhisheknaiidu/todoist-readme) - Daily Todoist Stats on your Profile Readme
 - [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
 - [1990s style Visitor Counter](https://twitter.com/ryanlanciaux/status/1283755637126705152) - Add a 1990s style visitor counter with one line of markdown.
@@ -284,8 +286,11 @@
 - [Shields Project](https://shields.io/) - Use Shields to create profile badges, compatible with Simple Icons
 - [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Get dynamically generated GitHub stats on your readmes
 - [GitHub Stats](https://github.com/dvigo/github-stats) - 🚀 A lightning-fast, highly aesthetic SVG statistics generator with True Glassmorphism design and themes
+- [Github Readme Insight Terminal Ascii](https://github.com/seuthootDev/github-readme-insight-terminal-ascii) - Generate terminal-style contribution graph, stats, and top languages SVGs for your GitHub profile README
 - [Github Contributor Stats](https://github.com/HwangTaehyun/github-contributor-stats) - :fire: Get dynamically generated Github Contributor stats (repositories you really committed) on your readmes
+- [GitHub Gravity](https://github.com/flycran/github-gravity) - 🌌 Make your GitHub contribution graph fall under gravity, colliding with custom text to produce a beautiful animated SVG
 - [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+- [gitglance](https://github.com/rafaeloliveiraz/gitglance) - Self-hostable GitHub stats cards with 16 visual styles, 21 themes, chart cards (donut, gauges, commit activity) and a visual card builder
 - [Simple Icons](https://github.com/simple-icons/simple-icons#cdn-usage) -  SVG icons for popular brands for your README.md files
 - [Laravel GitHub Profile Visit Counter](https://github.com/caneco/laravel-github-profile-view-counter) - Add on your Laravel project a quick-badge to count your profile visits.
 - [Dev Metrics in Readme](https://github.com/athul/waka-readme) - [WakaTime](https://wakatime.com/) Weekly Metrics on your Profile Readme
@@ -319,6 +324,11 @@
 - [YouTube Channel Stats](https://github.com/DenverCoder1/github-readme-youtube-stats) - 📺 Display number of subscribers on YouTube and/or your channel's view count as a badge
 - [Current Book Status from GoodReads](https://github.com/theFr1nge/goodreads-readme) - Add a card of the current book you are reading that automatically syncs with GoodReads to display your progress.
 - [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) - :zap: Dynamically generated, customizable SVG that gives the appearance of typing and deleting text
+- [Dither Portrait](https://github.com/0xharkirat/dither-portrait) - Turn a photo into an animated dithered SVG for your profile README, with a browser playground to preview it
+- [GitHub Readme Zodiac](https://github.com/seuthootDev/github-readme-zodiac) - Zodiac-themed SVG profile cards and pinned Gists from your GitHub activity.
+- [GitHub Readme Chinese Zodiac](https://github.com/seuthootDev/github-readme-chinese-zodiac) - Asian zodiac (十二生肖) SVG profile cards and pinned Gists from your GitHub activity.
+- [vinilo](https://github.com/icortesb/vinilo) - Your recently played Spotify tracks as a static SVG, built in your own GitHub Actions and committed to your own branch, so no third-party service holds your token
+- [Github Pet](https://github.com/prsdx/github-pet) - Animated pixel cat for your GitHub profile README that reacts to real activity (CI failures, streaks, releases) - zero-dependency animated SVGs via a GitHub Action.
 
 ## Articles
 - ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
