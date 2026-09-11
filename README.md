@@ -52,7 +52,6 @@
 ## Categories
 
 #### GitHub Actions 🤖
-- [Egor Fedorov](https://github.com/egorthinks/egorthinks)
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 - [Brian Douglas](https://github.com/bdougie/bdougie)
